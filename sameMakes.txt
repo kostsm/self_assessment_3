@@ -1,0 +1,2 @@
+Car: [ID=1, Make=Volkswagen, Model=Polo, Year of manufacture=2013, Color=Black, Price=9000.0, Registration Number=HEB099]
+Car: [ID=6, Make=Volkswagen, Model=Tiguan, Year of manufacture=2017, Color=White, Price=18000.0, Registration Number=KOM592]

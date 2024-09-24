@@ -1,0 +1,1 @@
+Car: [ID=2, Make=Ferrari, Model=Purosangue, Year of manufacture=2023, Color=Red, Price=270000.0, Registration Number=AAA111]
